@@ -10,7 +10,7 @@
 </p>
 
 ## Project Version
-> 1.0.0 (BETA)
+> 1.0.2 (BETA)
 
 Requirements
 ------------
